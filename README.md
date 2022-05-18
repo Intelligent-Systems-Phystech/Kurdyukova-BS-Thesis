@@ -10,7 +10,7 @@
 
 ### Демо
 
-[Ссылка на демо]()
+[Ссылка на демо](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/code/ccm_accelerometer.ipynb)
 
 ### Requirements
 
