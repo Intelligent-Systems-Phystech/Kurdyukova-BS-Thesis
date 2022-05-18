@@ -14,8 +14,5 @@
 
 ### Requirements
 
-[Ссылка на requirements.txt]()
+[Ссылка на requirements.txt](https://github.com/Intelligent-Systems-Phystech/Kurdyukova-BS-Thesis/blob/master/code/requirements.txt)
 
-### Код алгоритма
-
-[Ссылка на modules.py]()
